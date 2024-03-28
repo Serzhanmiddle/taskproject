@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  
+}
+
+.App-logo {
+  height: 80px;
+  width: 70px;
+  
+  
+}
+
+
+
+.App-header {
+  background-color: rgb(74, 73, 73);
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
